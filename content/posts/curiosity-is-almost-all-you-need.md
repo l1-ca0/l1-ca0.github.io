@@ -1,7 +1,7 @@
 ---
 title: "Curiosity is (Almost) All You Need"
 date: 2025-06-15T16:20:00Z
-draft: true
+draft: false
 tags: ["ai", "llm", "education"]
 description: "How recent advancements in LLMs have fundamentally changed the way we learn, making curiosity more valuable than access to information."
 ---
@@ -55,17 +55,6 @@ There is a famous saying among developers that "Talk is cheap, show me the code"
 4. **Challenges assumptions** - Questions AI responses and seeks alternative perspectives
 5. **Builds iteratively** - Uses AI to rapidly prototype and test ideas
 
-### Example: Learning a New Framework
-**Traditional approach:** 
-
-Read documentation → Follow tutorials → Build simple projects → Gradually increase complexity
-
-**Curiosity-driven approach with LLMs:**
-- "Show me a real-world example of this framework solving X problem"
-- "What are the trade-offs compared to framework Y?"
-- "Can you walk me through the architecture decisions behind this design?"
-- "What would happen if we scaled this to handle 1M users?"
-- "Show me how this would fail and how to prevent it"
 
 ## The Paradox of Infinite Access
 
