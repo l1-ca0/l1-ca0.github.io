@@ -23,13 +23,13 @@ This course teaches from a programmer's perspective on how computer systems actu
 
 **Challenges:**
 - A few labs (Proxy, Malloc) require significant time investment
-- Debugging low-level code and performance issues can be frustrating
+- Debugging low-level code can be frustrating
 
 **Would I recommend?** 
 
-Essential for anyone interested to learn about systems programming. The labs can be challenging at times but incredibly rewarding. 
+Essential for anyone interested to learn more about systems programming. The labs can be challenging at times but incredibly rewarding. 
 
-## 18-789: Deep Generative Models
+## 18-789: Deep Generative Modeling
 
 This class was offered only the second time and I couldn't find reviews anywhere else online. But here is my take:
 
@@ -42,15 +42,15 @@ I found this class to be on the easier side, with the lightest workload among th
 There's only one midterm that covers roughly the first 65% of the lecture materials. I found it relatively easy with sufficient preparation, though the class average was surprisingly low. This was likely due to the multiple-choice questions that required selecting all correct answers to receive any credit - almost all of my lost points came from this question format.
 
 **Highlights:**
-- The class invites multiple leading researchers in their field as guest lectuers.
+- The class invites multiple leading researchers in their field as guest speakers.
 - There is a student presentation session in pair where we can choose among several topics. I chose to present on the areas of the improvements for the seminal Wavenet paper. It was quite fun to learn more about wavenet and this is our [presentation slide](/Wavenet_%20A%20Generative%20Model%20for%20Raw%20Audio.pdf).
-- There is also a group project (up to three students). Most groups chose application domains like text, image or video generation. We did a project on tabular data instead -- applying interpretable DGM on credit card default prediction. This is our [project slide](/Interpretable_DGM_default_prediction.pdf). We managed to obtian full points for this project for the 2 presentations and final paper.
+- There is also a group project (up to three students). Most groups chose application domains like text, image or video generation. We did a project on tabular data instead -- applying interpretable DGM on credit card default prediction. This is our [project slide](/Interpretable_DGM_default_prediction.pdf). We managed to obtian full points for the project in both presentations and final paper.
 
 **Would I recommend?** 
 
 This class significantly overlaps with my other ML courses below. The overlap reinforced key concepts across multiple classes, deepening my understanding. However, I could have used that course slot to explore entirely new topics instead. It's the classic exploration vs. exploitation tradeoff 😏.  I would recommend it if you want to learn more about DGM and its applications in various domains.
 
-Other good resources for this topic which I found helpful are the Deep Generative Modelling class from Stanford and Deep Unsupervised Learning from UC Berkeley. 
+Other good resources for this topic which I found helpful are the Deep Generative Models class from Stanford and Deep Unsupervised Learning from UC Berkeley. 
 
 ## 11-785: Introduction to Deep Learning
 
@@ -74,7 +74,7 @@ This is CMU's famous deep learning course with a comprehensive curriculum. The c
 
 Yes, this course provides an excellent foundation in deep learning. However, I found myself spending disproportionate time on hyperparameter tuning and architecture optimization for the Kaggle competitions. While hands-on experience with model fine-tuning is valuable, it reaches a point of diminishing returns where one invests more effort for marginal score improvements to exceed the high-scoring thresholds.
 
-I also implemented a fully functional mini-PyTorch library using Autograd and ultimately scored more than 101% for the class thanks to bonus points opportunities. It's demanding but rewarding for those serious about learning deep learning fundamentals.
+I also implemented a fully functional mini-PyTorch library (Autograd version) in numpy and ultimately scored more than 101% for the class thanks to bonus points opportunities. It's demanding but rewarding for those serious about learning deep learning fundamentals.
 
 ## 10-403: Deep Reinforcement Learning
 
@@ -94,13 +94,13 @@ I also implemented a fully functional mini-PyTorch library using Autograd and ul
 This is arguably my hardest class (though less time-consuming than 11-785) for the semester. The course emphasized both theoretical foundations and practical applications.
 
 **Highlights:**
-- Cutting-edge curriculum covering latest RL research in the later half of the course
+- Cutting-edge curriculum covering recent RL research in the later half of the course
 - Hands-on implementation of RL algorithms
-- Applications spanning games, robotics, and LLMs 
+- Applications spanning games, vision, robotics, and LLMs 
 
 **Challenges:**
 - Requires solid background in machine learning and Mathematics (an optimization class would be particularly helpful)
-- The course has three exams - the first two exams averaged around 50-55% (yes, you read that correctly!). The class did significantly better for the third exam, during which we were also required to read a paper we have never seen and answer some questions about it. Fortunately, they're all open-note, so we can bring printed materials and prepare comprehensive summary sheets.  In fact, I believe challenging exams are essential for motivating students to study the course materials thoroughly. I invested the most exam preparation time this semester on this class, and it paid off.
+- The course has three exams - the first two exams averaged around 50-55% (yes, you read that correctly!). The class did significantly better for the third exam, during which we were also required to read a paper we have never seen and answer some questions about it. Fortunately, they're all open-note, so we can bring printed materials and prepare comprehensive summary sheets. I believe challenging exams are essential for motivating students to study the course materials thoroughly. I invested the most exam preparation time this semester on this class, and it paid off.
 
 **Would I recommend?** 
 
