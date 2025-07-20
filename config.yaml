@@ -82,7 +82,8 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "9Enf6gmNqgy53OYuziNREfrm9UzS3lTsN81YhsmnNPA"
+      GA_MEASUREMENT_ID: "G-ZB0ZGY0ZVZ"
 
 
   cover:
