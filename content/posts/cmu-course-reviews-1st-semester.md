@@ -39,7 +39,7 @@ It starts by covering various Deep Generative Models such as AR, VAE, GAN, Norma
 ### My experience:
 I found this class to be on the easier side, with the lightest workload among the 4 courses I took. While the class does involve some mathematics, it's not at the most rigorous level. The coding assignments involve implementations of deep generative models like Transformers, GANs, and diffusion models in PyTorch. Some models required manual architecture tweaking since the default configurations in the starter code didn't always work out of the box. The written assignments consist mainly of mathematical derivations and proofs.
 
-There's only one midterm that covers roughly the first 65% of the lecture materials. I found it relatively easy with sufficient preparation, though the class average was surprisingly low. This was likely due to the multiple-choice questions that required selecting all correct answers to receive any credit - almost all of my lost points came from this question format.
+There's only one midterm that covers roughly the first 65% of the lecture materials. I found it relatively easy with sufficient preparation. The exam format consists of multiple-choice questions (both single-answer and multiple-answer) and open-ended conceptual/math questions.
 
 **Highlights:**
 - The class invites multiple leading researchers in their field as guest speakers.
@@ -100,11 +100,11 @@ This is arguably my hardest class (though less time-consuming than 11-785) for t
 
 **Challenges:**
 - Requires solid background in machine learning and Mathematics (an optimization class would be particularly helpful)
-- The course has three exams - the first two exams averaged around 50-55% (yes, you read that correctly!). The class did significantly better for the third exam, during which we were also required to read a paper we have never seen and answer some questions about it. Fortunately, they're all open-note, so we can bring printed materials and prepare comprehensive summary sheets. I believe challenging exams are essential for motivating students to study the course materials thoroughly. I invested the most exam preparation time this semester on this class, and it paid off.
+- The course has three exams - the first two exams averaged around 50-55% (yes, you read that correctly!). The class did significantly better for the third exam, during which we were also required to read a paper we have never seen and answer some questions about it. Fortunately, they're all open-note, so we can bring printed materials and prepare comprehensive summary sheets. I believe challenging exams help motivate students to study the course materials thoroughly. I invested the most exam preparation time this semester on this class, and it paid off.
 
 **Would I recommend?** 
 
-Yes, it's a good class for learning more about RL, and RL is one of the hottest topics nowadays. I became interested in RL more than a year ago and already self-studied using the UC Berkeley CS285 class by Prof. Sergey Levine and another similar class by Prof. Zhang Weinan at SJTU. I also found the book [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) by Shiyu Zhao helpful. Despite this background, I still learned significantly from the CMU RL class due to its comprehensive coverage that goes beyond traditional textbook material and includes cutting-edge research developments.
+Yes, it's a good class for learning more about RL, and RL is one of the hottest topics nowadays. I became interested in RL more than a year ago and already self-studied using the UC Berkeley CS285 class by Prof. Sergey Levine and another similar class by Prof. Zhang Weinan at SJTU. I also found the book [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) by Shiyu Zhao helpful. Despite this background, I still learned significantly from the CMU RL class due to its comprehensive coverage that goes beyond traditional textbook material and includes recent research developments. I am also fortunate to be a TA for 10-703 next semester.
 
 
 ## Final Thoughts
